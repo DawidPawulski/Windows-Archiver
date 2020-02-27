@@ -1,5 +1,5 @@
-# SanityArchiver
-C# | .NET Framework | Windows Presentation Foundation. WPF application to archieve and handle files, encrypting and compressing text files.
+# Windows Archiver
+WPF application to archive and handle files, encrypting and compressing text files.
 
 ## Description
 As a User I would like to have an application in order to archive and handle my files.
